@@ -1,0 +1,35 @@
+h1{
+    margin-right: 150px;
+    color: red;
+    text-align: right;
+}
+h2{
+    background-color: purple;
+    color: greenyellow;
+}
+
+p{
+    background-color: white;
+    text-align: center;
+}
+li{
+    
+    a{
+        color: white;
+        background-color: black;
+    }
+}
+
+#hej {
+    background-color: lightblue;
+    
+}
+
+#imgs{
+    text-align: left;
+    background-color: transparent;
+}
+
+body {
+    background-image: url('./ek.jpg');
+  }
